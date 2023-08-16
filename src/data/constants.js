@@ -1,3 +1,5 @@
+import amoeba from "../images/amoeba.jpg"
+import railways from "../images/railways.jpeg"
 export const Bio = {
   name: "Biswajit Sahu",
   roles: [
@@ -311,16 +313,111 @@ export const projects = [
     github: "https://github.com/Biswa1045/QuizGame",
     webapp: "https://play.google.com/store/apps/details?id=com.biswa1045.quizgame",
   },
- 
-  
+  {
+    id: 3,
+    title: "Akash",
+    date: "2022",
+    description:
+      "Shop Stoke management, Bill management app. Streamline bill tracking, budget insights, and timely payment reminders for enhanced financial management.",
+    image:
+      "https://github.com/Biswa1045/Akash/assets/92640713/b9a898da-84ff-4c91-bb4e-4394a930f2fc",
+    tags: [
+     "JAVA",
+     "Android Studio",
+     "Firebase",
+     "Kotlin"
+     
+
+    ],
+    category: "android app",
+    github: "https://github.com/Biswa1045/Akash",
+    webapp: "https://github.com/Biswa1045/Akash",
+  },
+  {
+    id: 4,
+    title: "Gully Cricbuzz",
+    date: "2020",
+    description:
+      "The Cricket Match Score and Player Performance Tracking App is designed to provide updates and detailed information about cricket matches, player scores, and individual player performances. The app aims to enhance the user's experience by offering comprehensive match statistics, player profiles, and interactive features that allow fans to stay engaged with the game.",
+    image:
+      "",
+    tags: [
+     "JAVA",
+     "Android Studio",
+     "Firebase",
+     
+
+    ],
+    category: "android app",
+    github: "",
+    webapp: "",
+  },
+  {
+    id: 5,
+    title: "Complaint Management Website",
+    date: "June 2023 - July 2023",
+    description:
+      "The East Coast Railways Complaint Management System provides easy complaint registration, login, and tracking. Users can monitor their complaint status. Admins delegate complaints to dealers for resolution. Built with HTML, CSS, JavaScript, Node.js, and MySQL, this system streamlines communication for better customer satisfaction.",
+    image:
+      railways,
+    tags: [
+     "JavaScript",
+     "html",
+     "css",
+     "Node.js",
+     "My SQL"
+    ],
+    category: "web app",
+    github: "https://github.com/Biswa1045/Railway-Complaint-Management",
+    webapp: "https://github.com/Biswa1045/Railway-Complaint-Management",
+  },
+  {
+    id: 6,
+    title: "",
+    date: "April 2023",
+    description:
+      "",
+    image:
+      "",
+    tags: [
+     "Electonics",
+     "Arduino",
+     "Welding",
+    
+
+    ],
+    category: "web app",
+    github: "",
+    webapp: "",
+  },
+  {
+    id: 9,
+    title: "360 Camera",
+    date: "April 2023",
+    description:
+      "The Automated 360-Degree Rotating Camera System captures immersive footage by rotating a 360-degree camera around a central subject. This project creates an electronics-controlled setup for enhanced content creation in applications like virtual reality and entertainment.",
+    image:
+      "",
+    tags: [
+     "Electonics",
+     "Arduino",
+     "Welding",
+    
+
+    ],
+    category: "electronics",
+    github: "",
+    webapp: "",
+  },
   {
     id: 10,
     title: "Ameoba",
     date: "2023",
     description:
       "The water cleaner machine is a device designed to clean the surface of a water body such as a pond, lake or swimming pool. It operates using a suction mechanism that pulls water and debris through the machine, removing dirt, leaves and other pollutants from the surface of the water.The machine consists of a motor, suction pump, and filter, along with a collection bin for holding debris. The device is placed on the surface of the water and turned on, creating a suction that draws water and debris through the machine's filter. The filter captures the debris, while the clean water is returned back to the water body.",
-    image:
-      "https://media.licdn.com/dms/image/C5622AQHivTmPMrNzcw/feedshare-shrink_1280/0/1677008798113?e=1695254400&v=beta&t=GZtDPNJ3bDeGVWJ7M6Vm3FCe5do67gP3p8pjBJm29Hw",
+ //   image:"https://media.licdn.com/dms/image/C5622AQHivTmPMrNzcw/feedshare-shrink_1280/0/1677008798113?e=1695254400&v=beta&t=GZtDPNJ3bDeGVWJ7M6Vm3FCe5do67gP3p8pjBJm29Hw",
+    image:"amoeba",
+   
     tags: ["Arduino", "Electronics"],
     category: "electronics",
     github: "https://www.linkedin.com/feed/update/urn:li:activity:7033884715124228096/",
