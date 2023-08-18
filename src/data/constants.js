@@ -1,5 +1,6 @@
 import amoeba from "../images/amoeba.jpg"
 import railways from "../images/railways.jpeg"
+import camera_360 from "../images/360camera.jpeg"
 export const Bio = {
   name: "Biswajit Sahu",
   roles: [
@@ -206,7 +207,7 @@ export const experiences = [
   },
   {
     id: 3,
-    img: "https://media.licdn.com/dms/image/D4D0BAQGfGQHEJt8gPA/company-logo_100_100/0/1666002815185?e=1692230400&v=beta&t=c4obZda4Uh9q6vOcmCbxjoSiExvbvYwEHUlgdY0tU-4",
+    img: "data:image/jpeg;base64,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",
     role: "Android Developer",
     company: "Freelance",
     date: "2020 - Present",
@@ -340,7 +341,7 @@ export const projects = [
     description:
       "The Cricket Match Score and Player Performance Tracking App is designed to provide updates and detailed information about cricket matches, player scores, and individual player performances. The app aims to enhance the user's experience by offering comprehensive match statistics, player profiles, and interactive features that allow fans to stay engaged with the game.",
     image:
-      "",
+      "https://images.unsplash.com/opengraph/1x1.png?auto=format&fit=crop&w=1200&h=630&q=60&mark-w=64&mark-align=top%2Cleft&mark-pad=50&blend-w=1&mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1633783714421-332b7f929148%3Fcrop%3Dfaces%252Cedges%26cs%3Dtinysrgb%26fit%3Dcrop%26fm%3Djpg%26ixid%3DM3wxMjA3fDB8MXxzZWFyY2h8NXx8bm8lMjBpbWFnZXxlbnwwfHx8fDE2OTE1OTMxOTF8MA%26ixlib%3Drb-4.0.3%26q%3D60%26w%3D1200%26auto%3Dformat%26h%3D630%26mark-w%3D750%26mark-align%3Dmiddle%252Ccenter%26blend-mode%3Dnormal%26blend-alpha%3D10%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fsearch-input.png%253Fauto%253Dformat%2526fit%253Dcrop%2526w%253D750%2526h%253D84%2526q%253D60%2526txt-color%253D000000%2526txt-size%253D40%2526txt-align%253Dmiddle%25252Cleft%2526txt-pad%253D80%2526txt-width%253D660%2526txt-clip%253Dellipsis%2526txt%253Dno%252520image%26blend%3D000000",
     tags: [
      "JAVA",
      "Android Studio",
@@ -354,6 +355,25 @@ export const projects = [
   },
   {
     id: 5,
+    title: "Alumini Network",
+    date: "2023",
+    description:
+      "The alumni network platform is a project aimed at creating a centralized online platform that connects graduates from College. The platform will enable alumni to network, exchange ideas, and access job opportunities while keeping them up-to-date with the latest news from their alma mater.",
+    image:
+      "https://user-images.githubusercontent.com/92640713/261637147-7ce134e1-9eff-499b-903c-fe7e947063ae.jpeg",
+    tags: [
+     "JAVA",
+     "Android Studio",
+     "Firebase",
+     "Kotlin",
+
+    ],
+    category: "android app",
+    github: "https://github.com/Biswa1045/AluminiNetwork",
+    webapp: "https://github.com/Biswa1045/AluminiNetwork",
+  },
+  {
+    id: 6,
     title: "Complaint Management Website",
     date: "June 2023 - July 2023",
     description:
@@ -371,33 +391,15 @@ export const projects = [
     github: "https://github.com/Biswa1045/Railway-Complaint-Management",
     webapp: "https://github.com/Biswa1045/Railway-Complaint-Management",
   },
+  
   {
-    id: 6,
-    title: "",
-    date: "April 2023",
-    description:
-      "",
-    image:
-      "",
-    tags: [
-     "Electonics",
-     "Arduino",
-     "Welding",
-    
-
-    ],
-    category: "web app",
-    github: "",
-    webapp: "",
-  },
-  {
-    id: 9,
+    id: 8,
     title: "360 Camera",
     date: "April 2023",
     description:
       "The Automated 360-Degree Rotating Camera System captures immersive footage by rotating a 360-degree camera around a central subject. This project creates an electronics-controlled setup for enhanced content creation in applications like virtual reality and entertainment.",
     image:
-      "",
+    camera_360,
     tags: [
      "Electonics",
      "Arduino",
@@ -410,13 +412,13 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 10,
+    id: 9,
     title: "Ameoba",
     date: "2023",
     description:
       "The water cleaner machine is a device designed to clean the surface of a water body such as a pond, lake or swimming pool. It operates using a suction mechanism that pulls water and debris through the machine, removing dirt, leaves and other pollutants from the surface of the water.The machine consists of a motor, suction pump, and filter, along with a collection bin for holding debris. The device is placed on the surface of the water and turned on, creating a suction that draws water and debris through the machine's filter. The filter captures the debris, while the clean water is returned back to the water body.",
  //   image:"https://media.licdn.com/dms/image/C5622AQHivTmPMrNzcw/feedshare-shrink_1280/0/1677008798113?e=1695254400&v=beta&t=GZtDPNJ3bDeGVWJ7M6Vm3FCe5do67gP3p8pjBJm29Hw",
-    image:"amoeba",
+    image:amoeba,
    
     tags: ["Arduino", "Electronics"],
     category: "electronics",
@@ -435,9 +437,35 @@ export const projects = [
         linkedin: "https://www.linkedin.com/in/biswajit-1045s/",
         github: "https://www.linkedin.com/in/biswajit-1045s",
       },
+      {
+        name: "Ashish Mishra",
+        img: "https://media.licdn.com/dms/image/C4E03AQGRUdJKSYNCvg/profile-displayphoto-shrink_400_400/0/1641617856474?e=1697673600&v=beta&t=V4fqYiP_75mqKpWq6Zbu6EJZBNp-lj3WqW9i8GpXrig",
+        linkedin: "https://www.linkedin.com/in/ashish-akm/",
+        
+      },
+      {
+        name: "Isha Priyadarshani",
+        img: "https://media.licdn.com/dms/image/D5603AQEYJvFtMbfVIA/profile-displayphoto-shrink_100_100/0/1683023896272?e=1697673600&v=beta&t=Jfh6LMRsWOdL8Gx0nDOcnje04HlzydvGFIqHbEHKyhc",
+        linkedin: "https://www.linkedin.com/in/isha-priyadarshani-panda-18a1bb233",
+        
+      },
     ],
   },
-  
+  {
+    id: 10,
+    title: "Live Health Checker",
+    date: "Oct 2021 - Jan 2022",
+    description:
+      "The Health Monitoring System is a project designed to measure and monitor a person's heart rate, body temperature, and oxygen level in real-time. The system uses an Arduino Nano board, GSM module, oximeter, temperature sensor, and heartbeat sensor to collect the data. The data is then transmitted to a cloud-based storage service using ThingSpeak API, and displayed in a mobile application developed using Android Studio.",
+ //   image:"https://media.licdn.com/dms/image/C5622AQHivTmPMrNzcw/feedshare-shrink_1280/0/1677008798113?e=1695254400&v=beta&t=GZtDPNJ3bDeGVWJ7M6Vm3FCe5do67gP3p8pjBJm29Hw",
+    image:"https://images.unsplash.com/opengraph/1x1.png?auto=format&fit=crop&w=1200&h=630&q=60&mark-w=64&mark-align=top%2Cleft&mark-pad=50&blend-w=1&mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1633783714421-332b7f929148%3Fcrop%3Dfaces%252Cedges%26cs%3Dtinysrgb%26fit%3Dcrop%26fm%3Djpg%26ixid%3DM3wxMjA3fDB8MXxzZWFyY2h8NXx8bm8lMjBpbWFnZXxlbnwwfHx8fDE2OTE1OTMxOTF8MA%26ixlib%3Drb-4.0.3%26q%3D60%26w%3D1200%26auto%3Dformat%26h%3D630%26mark-w%3D750%26mark-align%3Dmiddle%252Ccenter%26blend-mode%3Dnormal%26blend-alpha%3D10%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fsearch-input.png%253Fauto%253Dformat%2526fit%253Dcrop%2526w%253D750%2526h%253D84%2526q%253D60%2526txt-color%253D000000%2526txt-size%253D40%2526txt-align%253Dmiddle%25252Cleft%2526txt-pad%253D80%2526txt-width%253D660%2526txt-clip%253Dellipsis%2526txt%253Dno%252520image%26blend%3D000000",
+   
+    tags: ["Arduino", "Electronics", "Android", "ThingSpeak", "Proteus"],
+    category: "electronics",
+    github: "",
+    webapp: "",
+    
+  },
   
 
  
