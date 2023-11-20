@@ -33,7 +33,7 @@ const HeroSection = () => {
 
                     <HeroRightContainer id="Right">
 
-                        <Img src={"https://media.licdn.com/dms/image/D5603AQH3peDrI5cNqA/profile-displayphoto-shrink_800_800/0/1685460687516?e=1697673600&v=beta&t=UEPb0LGMCj9SxfR1q0z0YSmkEHOX7AbLaZPvxlYNe7o"} alt="hero-image" />
+                        <Img src={"https://media.licdn.com/dms/image/D5603AQHsOiTNYsziRw/profile-displayphoto-shrink_800_800/0/1700161894695?e=1706140800&v=beta&t=osfcBuS0zEdOw2elkmZ59ikyaRtMfEMlAQmZUAcwL0w"} alt="biswajit-image" />
                     </HeroRightContainer>
                 </HeroInnerContainer>
 
