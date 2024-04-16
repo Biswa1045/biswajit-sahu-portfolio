@@ -1,8 +1,10 @@
 import amoeba from "../images/amoeba.jpg"
 import railways from "../images/railways.jpeg"
 import camera_360 from "../images/360camera.jpeg"
+import profile_image from "../images/biswajit_img.jpg"
 export const Bio = {
   name: "Biswajit Sahu",
+  image: profile_image,
   roles: [
     "Android Developer",
     "Web Developer",
